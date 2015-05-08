@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id_user`, `nombre`, `apellidos`, `email`, `usuario`, `password`, `rol`, `estado`) VALUES
-(1, 'Administrador', 'root root', 'root@hotmail.com', 'root', 'root', 2, 1);
+(1, 'Administrador', 'root root', 'root@hotmail.com', 'root', 'root', 1, 1);
 
 --
 -- Índices para tablas volcadas
